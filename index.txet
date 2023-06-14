@@ -1,7 +1,0 @@
-{
-    code:200,
-    data:{
-        name:'iFaded/zhangwm-app',
-        default_branch:"master"
-    }
-}
