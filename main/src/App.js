@@ -7,7 +7,6 @@ function App() {
   
   const reactClick = () =>{
     window.location.replace('/app-react')
-    console.log(window.location,'===')
   }
 
   return (

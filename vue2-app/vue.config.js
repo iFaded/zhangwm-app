@@ -1,4 +1,5 @@
 const { name } = require('./package');
+console.log(name,'name===name')
 module.exports = {
   devServer: {
     headers: {
