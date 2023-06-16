@@ -2,6 +2,7 @@ const { name } = require('./package');
 console.log(name,'name===name')
 module.exports = {
   devServer: {
+    port:9002 ,//remote 9002
     headers: {
       'Access-Control-Allow-Origin': '*',
     },

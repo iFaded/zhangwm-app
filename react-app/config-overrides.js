@@ -1,5 +1,5 @@
 const { name } = require('./package');
-console.log(name,'name===name')
+
 module.exports = {
   webpack: (config) => {
     config.output.library = `${name}-[name]`;
